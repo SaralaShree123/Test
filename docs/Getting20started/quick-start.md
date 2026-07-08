@@ -4,6 +4,8 @@ excerpt: Set up TestPartner and find the resources needed for your first integra
 ---
 Use this quick start to set up TestPartner and find the resources you need for your first integration.
 
+> **Git sync test (Jul 8, 2026):** If you can read and Git write, this line confirms Git → ReadMe sync.
+
 ## Prerequisites
 
 1. Sign in to your TestPartner account.
